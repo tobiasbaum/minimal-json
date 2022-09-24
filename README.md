@@ -1,7 +1,5 @@
-minimal-json [UNMAINTAINED]
-===========================
-
-*I'm glad to see that minimal-json is still used, however, I can't maintain this project anymore. If anyone actively maintains a fork that follows the ideas of minimal-json, I'm happy to link to this repository here. Thank you.*
+minimal-json
+============
 
 [![License](https://img.shields.io/github/license/ralfstx/minimal-json.svg)](https://github.com/ralfstx/minimal-json/blob/master/LICENSE)
 [![Maven Central](https://img.shields.io/maven-central/v/com.eclipsesource.minimal-json/minimal-json.svg)](http://search.maven.org/#search|ga|1|g%3A%22com.eclipsesource.minimal-json%22%20a%3A%22minimal-json%22)
@@ -244,7 +242,7 @@ You can include minimal-json from Maven Central by adding this dependency to you
 <dependency>
   <groupId>com.eclipsesource.minimal-json</groupId>
   <artifactId>minimal-json</artifactId>
-  <version>0.9.5</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
